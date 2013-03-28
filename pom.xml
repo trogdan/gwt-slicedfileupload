@@ -52,6 +52,16 @@
       <classifier>sources</classifier>
       <scope>test</scope>
     </dependency>
+    <dependency>
+    	<groupId>com.google.code.gwtx</groupId>
+    	<artifactId>gwtx</artifactId>
+    	<version>1.5.3</version>
+    </dependency>
+    <dependency>
+    	<groupId>org.vectomatic</groupId>
+    	<artifactId>lib-gwt-file</artifactId>
+    	<version>0.3.3</version>
+    </dependency>
   </dependencies>
 
   <build>
