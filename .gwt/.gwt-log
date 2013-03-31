@@ -1,0 +1,3744 @@
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2725 units from cache.
+Compiling...
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   40% complete (ETR: 8 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 6 seconds)
+   70% complete (ETR: 4 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 15.55 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609803596_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609803961_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609834389_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609834482.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609834482.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609834482_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609837234_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609837265.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609837265.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609837265_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609837379.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609837379.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609837379_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609845850.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609845850.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609845850_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609850950.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609850950.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609850950_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609854473_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609854532_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609864588_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609864622_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609864720.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609864720.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609864720_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609875388.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609875388.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609875388_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609889998.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609889998.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364609889998_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2725 units from cache.
+Compiling...
+   30% complete (ETR: 8 seconds)
+   30% complete (ETR: 8 seconds)
+   30% complete (ETR: 8 seconds)
+   30% complete (ETR: 8 seconds)
+   40% complete (ETR: 8 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 6 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 23.46 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611165174.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611165174.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611165174_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611165757.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611165757.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611165757_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611203027.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611203027.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611203027_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611214721.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611214721.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611214721_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2725 units from cache.
+Compiling...
+   Compilation completed in 0.01 seconds
+Invalid Unit: org.sample.client.SlicedUploadDemo
+Invalid units found: 1
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611256836.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611256836.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611256836_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611257471.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611257471.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611257471_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611263400.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611263400.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611263400_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611265502.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611265502.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611265502_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611265593.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611265593.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611265593_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611270797.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611270797.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611270797_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611273193.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611273193.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611273193_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611275889.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611275889.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364611275889_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2726 units from cache.
+Compiling...
+   30% complete (ETR: 13 seconds)
+   30% complete (ETR: 13 seconds)
+   30% complete (ETR: 13 seconds)
+   30% complete (ETR: 13 seconds)
+   40% complete (ETR: 10 seconds)
+   50% complete (ETR: 10 seconds)
+   60% complete (ETR: 9 seconds)
+   70% complete (ETR: 7 seconds)
+   80% complete (ETR: 5 seconds)
+   90% complete (ETR: 3 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 27.74 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Package not found: org.vectomatic.file
+[ERROR] Deferred binding failed for 'org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2726 cached/archived units.  Used 2726 / 2726 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Package not found: org.vectomatic.file
+[ERROR] Deferred binding failed for 'org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2726 units from cache.
+Compiling...
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   40% complete (ETR: 8 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 6 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 18.96 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Package not found: org.vectomatic.file
+[ERROR] Deferred binding failed for 'org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2725 cached/archived units.  Used 2725 / 2726 units from cache.
+Compiling...
+   Compilation completed in 0.01 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364661873027.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364661873027.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364661873027_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364661873530.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364661873530.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364661873530_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364661882985.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364661882985.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364661882985_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364661914916.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364661914916.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364661914916_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364661924076.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364661924076.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364661924076_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Package not found: org.vectomatic.file
+[ERROR] Deferred binding failed for 'org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2727 units from cache.
+Compiling...
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   70% complete (ETR: 2 seconds)
+   80% complete (ETR: 1 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 8.77 seconds
+Validating units:
+   [ERROR] Errors in 'file:/home/dan/workspace4/SlicedUploadDemo/src/org/sample/client/FileSlicer.java'
+      [ERROR] Line 18: No source code is available for type org.vectomatic.file.File; did you forget to inherit a required module?
+      [ERROR] Line 19: No source code is available for type org.vectomatic.file.FileReader; did you forget to inherit a required module?
+      [ERROR] Line 36: No source code is available for type org.vectomatic.file.events.LoadEndHandler; did you forget to inherit a required module?
+      [ERROR] Line 43: No source code is available for type org.vectomatic.file.events.LoadEndEvent; did you forget to inherit a required module?
+      [ERROR] Line 60: No source code is available for type org.vectomatic.file.events.ErrorHandler; did you forget to inherit a required module?
+      [ERROR] Line 67: No source code is available for type org.vectomatic.file.events.ErrorEvent; did you forget to inherit a required module?
+      [ERROR] Line 86: No source code is available for type org.vectomatic.file.FileList; did you forget to inherit a required module?
+      [ERROR] Line 133: No source code is available for type org.vectomatic.file.Blob; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Package not found: org.vectomatic.file
+[ERROR] Deferred binding failed for 'org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2727 units from cache.
+Compiling...
+Public resources found in...
+Translatable source found in...
+Found 17 cached/archived units.  Used 17 / 2727 units from cache.
+Compiling...
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   70% complete (ETR: 2 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 11.12 seconds
+Validating units:
+   [ERROR] Errors in 'file:/home/dan/workspace4/SlicedUploadDemo/src/org/sample/client/FileSlicer.java'
+      [ERROR] Line 18: No source code is available for type org.vectomatic.file.File; did you forget to inherit a required module?
+      [ERROR] Line 19: No source code is available for type org.vectomatic.file.FileReader; did you forget to inherit a required module?
+      [ERROR] Line 36: No source code is available for type org.vectomatic.file.events.LoadEndHandler; did you forget to inherit a required module?
+      [ERROR] Line 43: No source code is available for type org.vectomatic.file.events.LoadEndEvent; did you forget to inherit a required module?
+      [ERROR] Line 60: No source code is available for type org.vectomatic.file.events.ErrorHandler; did you forget to inherit a required module?
+      [ERROR] Line 67: No source code is available for type org.vectomatic.file.events.ErrorEvent; did you forget to inherit a required module?
+      [ERROR] Line 86: No source code is available for type org.vectomatic.file.FileList; did you forget to inherit a required module?
+      [ERROR] Line 133: No source code is available for type org.vectomatic.file.Blob; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Package not found: org.vectomatic.file
+[ERROR] Deferred binding failed for 'org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 24 cached/archived units.  Used 24 / 2727 units from cache.
+Compiling...
+   10% complete (ETR: 21 seconds)
+   10% complete (ETR: 21 seconds)
+   20% complete (ETR: 21 seconds)
+   30% complete (ETR: 14 seconds)
+   40% complete (ETR: 10 seconds)
+   50% complete (ETR: 10 seconds)
+   60% complete (ETR: 7 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 20.60 seconds
+Invalid Unit: org.sample.client.SlicedUploadDemo
+Invalid units found: 1
+Compiling...
+   Compilation completed in 0.02 seconds
+Validating units:
+   [ERROR] Errors in 'file:/home/dan/workspace4/SlicedUploadDemo/src/org/sample/client/FileSlicer.java'
+      [ERROR] Line 18: No source code is available for type org.vectomatic.file.File; did you forget to inherit a required module?
+      [ERROR] Line 19: No source code is available for type org.vectomatic.file.FileReader; did you forget to inherit a required module?
+      [ERROR] Line 36: No source code is available for type org.vectomatic.file.events.LoadEndHandler; did you forget to inherit a required module?
+      [ERROR] Line 43: No source code is available for type org.vectomatic.file.events.LoadEndEvent; did you forget to inherit a required module?
+      [ERROR] Line 60: No source code is available for type org.vectomatic.file.events.ErrorHandler; did you forget to inherit a required module?
+      [ERROR] Line 67: No source code is available for type org.vectomatic.file.events.ErrorEvent; did you forget to inherit a required module?
+      [ERROR] Line 86: No source code is available for type org.vectomatic.file.FileList; did you forget to inherit a required module?
+      [ERROR] Line 133: No source code is available for type org.vectomatic.file.Blob; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/home/dan/workspace4/SlicedUploadDemo/src/org/sample/client/FileUploadComposite.java'
+      [ERROR] Line 30: No source code is available for type org.vectomatic.file.FileUploadExt; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+[ERROR] Errors in 'file:/home/dan/workspace4/SlicedUploadDemo/src/org/sample/client/FileUploadComposite.java'
+   [ERROR] Line 30: No source code is available for type org.vectomatic.file.FileUploadExt; did you forget to inherit a required module?
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Checking rule <generate-with class='com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator'/>
+      [ERROR] Errors in 'file:/home/dan/workspace4/SlicedUploadDemo/src/org/sample/client/FileUploadComposite.java'
+         [ERROR] Line 30: No source code is available for type org.vectomatic.file.FileUploadExt; did you forget to inherit a required module?
+      [ERROR] Unable to find type 'org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder'
+         [ERROR] Hint: Previous compiler errors may have made this type unavailable
+         [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+[ERROR] Deferred binding failed for 'org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2798 units from cache.
+Compiling...
+   0% complete (ETR: ?)
+   10% complete (ETR: 125 seconds)
+   20% complete (ETR: 127 seconds)
+   30% complete (ETR: 121 seconds)
+   40% complete (ETR: 129 seconds)
+   50% complete (ETR: 147 seconds)
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2719 units from cache.
+Compiling...
+   0% complete (ETR: 75 seconds)
+   10% complete (ETR: 61 seconds)
+   20% complete (ETR: 40 seconds)
+   30% complete (ETR: 33 seconds)
+   40% complete (ETR: 29 seconds)
+   50% complete (ETR: 23 seconds)
+   60% complete (ETR: 18 seconds)
+   70% complete (ETR: 12 seconds)
+   80% complete (ETR: 8 seconds)
+   90% complete (ETR: 4 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 43.21 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2798 units from cache.
+Compiling...
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 9.91 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750221637.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750221637.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750221637_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750222793.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750222793.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750222793_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750238995.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750238995.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750238995_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750256783.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750256783.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750256783_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750259435.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750259435.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750259435_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750262657.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750262657.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750262657_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750265704.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750265704.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750265704_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750268059.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750268059.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750268059_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750307498.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750307498.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750307498_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750314132.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750314132.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750314132_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750315834.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750315834.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750315834_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750317217.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750317217.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750317217_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750318324.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750318324.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750318324_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750318844.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750318844.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750318844_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750319479.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750319479.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750319479_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750324604.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750324604.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750324604_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750325869.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750325869.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750325869_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750366994.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750366994.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750366994_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750367884.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750367884.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750367884_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750368471.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750368471.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750368471_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750369390.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750369390.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750369390_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750369890.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750369890.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750369890_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750370422.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750370422.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750370422_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750395693_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750395723_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750398195_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750398221_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750398297.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750398297.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750398297_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750407338.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750407338.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750407338_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750416326.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750416326.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750416326_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750429274.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750429274.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750429274_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750434412.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750434412.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750434412_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750439625.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750439625.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750439625_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750443100.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750443100.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750443100_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750446173.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750446173.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750446173_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750449799.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750449799.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750449799_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750457607.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750457607.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750457607_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750458486.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750458486.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750458486_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750464915_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750464942_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750466903_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750466939_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750467028.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750467028.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750467028_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750470629.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750470629.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750470629_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750481649.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750481649.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750481649_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750482232.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750482232.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750482232_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750485768.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750485768.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750485768_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750486339.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750486339.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750486339_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750487339.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750487339.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750487339_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750487833.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750487833.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750487833_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750488528.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750488528.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750488528_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750490071.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750490071.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750490071_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750491049.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750491049.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750491049_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750491608.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750491608.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750491608_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750492190.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750492190.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750492190_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750493644.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750493644.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750493644_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750494214.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750494214.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750494214_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750494787.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750494787.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750494787_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750499442.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750499442.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750499442_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750538577.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750538577.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364750538577_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751065697.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751065697.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751065697_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751065833.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751065833.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751065833_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751082276.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751082276.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751082276_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751082342.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751082342.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751082342_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751086820.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751086820.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751086820_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751097488.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751097488.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751097488_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751099533.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751099533.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751099533_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751104031.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751104031.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751104031_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751104767.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751104767.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751104767_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751106017.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751106017.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751106017_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751113778.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751113778.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751113778_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751128314.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751128314.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751128314_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751128901.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751128901.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751128901_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751133583.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751133583.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751133583_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751136206.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751136206.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751136206_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751137773.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751137773.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751137773_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751140776.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751140776.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751140776_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751144423.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751144423.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751144423_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751145456.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751145456.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751145456_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751151661.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751151661.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751151661_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751152380.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751152380.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751152380_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751153384.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751153384.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751153384_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751161795.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751161795.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751161795_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751176752.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751176752.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751176752_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751177350.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751177350.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751177350_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751177892.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751177892.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751177892_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751179287.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751179287.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751179287_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751181836.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751181836.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751181836_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751182305.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751182305.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751182305_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751182930.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751182930.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751182930_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751184060.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751184060.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751184060_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751184914.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751184914.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751184914_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751185387.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751185387.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751185387_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751185958.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751185958.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751185958_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751186528.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751186528.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751186528_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751187135.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751187135.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751187135_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751188278.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751188278.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751188278_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751188753.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751188753.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751188753_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751189946.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751189946.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751189946_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751190514.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751190514.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751190514_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751190996.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751190996.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751190996_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751191580.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751191580.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751191580_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751192145.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751192145.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751192145_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751193723.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751193723.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751193723_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751194392.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751194392.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751194392_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751195046.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751195046.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751195046_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751200182.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751200182.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751200182_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751200682.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751200682.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751200682_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751201484.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751201484.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751201484_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751202427.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751202427.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751202427_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751203999.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751203999.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751203999_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751208170.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751208170.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751208170_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751349172.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751349172.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751349172_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751351479.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751351479.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751351479_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751352245.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751352245.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751352245_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751352931.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751352931.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751352931_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751353583.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751353583.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751353583_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751358441.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751358441.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751358441_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751360780.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751360780.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751360780_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751361390.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751361390.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751361390_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751362292.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751362292.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751362292_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751363314.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751363314.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751363314_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751363922.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751363922.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751363922_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751364447.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751364447.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751364447_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751365091.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751365091.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751365091_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751367275.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751367275.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751367275_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751369540.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751369540.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751369540_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751370017.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751370017.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751370017_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751371102.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751371102.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751371102_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751371646.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751371646.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751371646_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751372254.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751372254.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751372254_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751372735.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751372735.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751372735_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751373245.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751373245.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751373245_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751375196.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751375196.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751375196_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751377499.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751377499.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751377499_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751382074.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751382074.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751382074_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751390421.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751390421.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751390421_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751395072.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751395072.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751395072_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751396020.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751396020.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751396020_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751397225.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751397225.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751397225_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751404101.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751404101.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751404101_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite.FileUploadCompositeUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751404812.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751404812.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding org.sample.client.FileUploadComposite_FileUploadCompositeUiBinderImpl_designTime1364751404812_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units

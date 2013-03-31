@@ -1,0 +1,2 @@
+serviceClass: org.sample.client.SlicedFileService
+path: 8ADFD23575837A818196241CCE05B478.gwt.rpc

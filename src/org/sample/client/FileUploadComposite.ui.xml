@@ -1,0 +1,30 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui"
+	xmlns:f="urn:import:org.vectomatic.file">
+	<ui:style>
+		.important {
+			font-weight: bold;
+		}
+	</ui:style>
+	<g:HTMLPanel ui:field="htmlPanel">
+		<!--  change the following to g:FileUpload to use the designer, then switch back when done -->
+		<g:AbsolutePanel height="302px">
+			<g:at left="7" top="33">
+				<g:Button ui:field="sendButton">Upload</g:Button>
+			</g:at>
+			<g:at left="4" top="2">
+				<f:FileUploadExt ui:field="fileUpload"></f:FileUploadExt>
+			</g:at>
+			<g:at left="7" top="91">
+				<g:HTML ui:field="responseHTML" wordWrap="true" height="184px" width="431px"></g:HTML>
+			</g:at>
+			<g:at left="125" top="62">
+				<g:IntegerBox ui:field="progressBox" visibleLength="3"/>
+			</g:at>
+			<g:at left="9" top="67">
+				<g:Label text="Percent Progress:"/>
+			</g:at>
+		</g:AbsolutePanel>
+	</g:HTMLPanel>
+</ui:UiBinder> 
