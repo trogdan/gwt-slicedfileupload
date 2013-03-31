@@ -2,6 +2,7 @@
 #.project
 #.settings/
 gwt-unitCache/
+.gwt/
 
 *.class
 
