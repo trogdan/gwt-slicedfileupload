@@ -6,21 +6,21 @@ public class FileSlice implements Serializable {
 
 	private long sequenceID;        //Sequence ID of this slice, starts at 1
 	private String fileName;		//Filename of the source file
-    private long fileSize;          //Total size of the file in bytes
-    private long fileOffset;        //Offset of this slice in bytes from the beginning of the file
-    private long sliceSize;         //Size of this slice in bytes
-    private String sliceData;       //Data of the slice
+	private long fileSize;          //Total size of the file in bytes
+	private long fileOffset;        //Offset of this slice in bytes from the beginning of the file
+	private long sliceSize;         //Size of this slice in bytes
+	private String sliceData;       //Data of the slice
 
-    public FileSlice()
-    {
-    	sequenceID = 0;
-    	fileName = "";
-        fileSize = 0;
-        fileOffset = 0;
-        sliceData = "";
-    }
+ 	public FileSlice()
+ 	{
+    		sequenceID = 0;
+    		fileName = "";
+        	fileSize = 0;
+        	fileOffset = 0;
+        	sliceData = "";
+	}
 
-    public long getFileSize() {
+	public long getFileSize() {
 		return fileSize;
 	}
 
