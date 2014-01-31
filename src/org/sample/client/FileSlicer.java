@@ -34,6 +34,7 @@ public class FileSlicer {
 		// UI event handler will populate this queue by calling queueFiles()
 		reader = new FileReader();
 		reader.addLoadEndHandler(new LoadEndHandler() {
+			
 			/**
 			 * This handler is invoked when FileReader.readAsText(),
 			 * FileReader.readAsBinaryString() or FileReader.readAsArrayBuffer()
@@ -48,12 +49,10 @@ public class FileSlicer {
 					
 					File currentFile = sliceQueue.get(0);
 					
-					if( sliceCurrentOffset == currentFile.getSize() )
-					{
+					if( sliceCurrentOffset == currentFile.getSize() ) {
 						isSlicing = false;
 					}
-					else
-					{
+					else {
 						isSlicing = doNextSlice(sliceQueue.get(0));
 					}
 				
@@ -63,8 +62,8 @@ public class FileSlicer {
 					}
 					
 				} else {
-	                    System.out.println("FileReader error: " + reader.getError().toString());
-	            }
+	                    		System.out.println("FileReader error: " + reader.getError().toString());
+	            		}
 			}
 		});
 
@@ -94,7 +93,8 @@ public class FileSlicer {
 	 * @param files
 	 * The file to process
 	 */
-	public void sliceFiles(FileList files) {
+	public void sliceFiles(FileList files) 
+	{
 		for (File file : files) {
 			sliceQueue.add(file);
 		}
@@ -105,16 +105,16 @@ public class FileSlicer {
 	/**
 	 * Slices the next file in the queue. 
 	 */
-	private void sliceNextFile() {
+	private void sliceNextFile() 
+	{
 		if (sliceQueue.size() > 0) {
 			
 			File file = sliceQueue.get(0);
 			
 			sliceCurrentOffset = 0;
-        	currentSliceID = 0;
+        		currentSliceID = 0;
         	
-			if( doNextSlice(file) == false )
-			{
+			if( doNextSlice(file) == false ) {
 				sliceNextFile();
 			}
 		}
@@ -127,26 +127,24 @@ public class FileSlicer {
 		//Make currentSlice
 		long sliceEndOffset = 0x0;
 
-        //If the remainder of the file is smaller than the max currentSlice, read the rest
-        if( sliceCurrentOffset + maxSliceSize >= file.getSize()  )
-        {
-        	sliceEndOffset = (long)file.getSize();
-        }
-        else
-        {
-        	sliceEndOffset = sliceCurrentOffset + maxSliceSize;
-        }
+        	//If the remainder of the file is smaller than the max currentSlice, read the rest
+        	if( sliceCurrentOffset + maxSliceSize >= file.getSize()  ) {
+        		sliceEndOffset = (long)file.getSize();
+        	}
+        	else {
+        		sliceEndOffset = sliceCurrentOffset + maxSliceSize;
+	        }
 
 		currentSlice = new FileSlice();
-        currentSlice.setFileName(file.getName());
-        currentSlice.setSequenceID(currentSliceID);
-        currentSlice.setFileOffset(sliceCurrentOffset);
+        	currentSlice.setFileName(file.getName());
+        	currentSlice.setSequenceID(currentSliceID);
+        	currentSlice.setFileOffset(sliceCurrentOffset);
 		currentSlice.setFileSize(file.getSize());
 		currentSlice.setSliceSize(sliceEndOffset - sliceCurrentOffset);
 		
 		Blob blob = file.slice(sliceCurrentOffset, sliceEndOffset);
 
-        if( blob != null ) {
+        	if( blob != null ) {
 			reader.readAsBinaryString(blob);
 
 			// Send currentSlice
@@ -155,6 +153,6 @@ public class FileSlicer {
 			return true;
 		} 
         
-        return false;    
+        	return false;    
 	}
 }
