@@ -4,10 +4,10 @@ import java.io.Serializable;
 
 public class FileSliceResponse implements Serializable {
 
-	private String fileName;				//Filename matching this response
+	private String fileName;		//Filename matching this response
 	private long sequenceID;                //Sequence ID of this slice, starts at 1, maps to sending sequence ID
 	private int sliceProgress;              //From 0 to 100, indicates the progress upload, 100 is complete, -1 is failure
-	private String responseMessage;    		//message to sender
+	private String responseMessage;    	//message to sender
 
 	public FileSliceResponse()
 	{
