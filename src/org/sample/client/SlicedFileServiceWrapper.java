@@ -19,35 +19,35 @@ public class SlicedFileServiceWrapper {
 	
 	private SlicedFileServiceAsync uploadService;
 
-    public void uploadSlice(FileSlice slice)
-    {
-	    if( uploadService == null )
-	    {
-	            uploadService = GWT.create(SlicedFileService.class);
-	    }
+	public void uploadSlice(FileSlice slice)
+	{
+		if( uploadService == null )
+		{
+	        	uploadService = GWT.create(SlicedFileService.class);
+		}
 	
-	    AsyncCallback<FileSliceResponse> callback = new AsyncCallback<FileSliceResponse>() {
+		AsyncCallback<FileSliceResponse> callback = new AsyncCallback<FileSliceResponse>() {
 	
-	            public void onFailure(Throwable caught) {
-	                    GWT.log("Upload failure: " + caught.toString());
-	            }
+			public void onFailure(Throwable caught) {
+				GWT.log("Upload failure: " + caught.toString());
+			}
 	
-	            @Override
-	            public void onSuccess(FileSliceResponse response) {
+			@Override
+			public void onSuccess(FileSliceResponse response) {
 	
-	                    if( response == null ) {
-	                    	GWT.log("Empty response");
-	                    }
-	                    else
-	                    {
-	                    	GWT.log("Received response " + response.getSequenceID() + " for file " + response.getFileName());
-	
-	                    	SlicedUploadDemo.instance.setResponseHTML(response.getResponseMessage());
-	                    	SlicedUploadDemo.instance.setProgress(Integer.valueOf(response.getSliceProgress()));
-	                    }
-	           }
-	    };
+				if( response == null ) {
+					GWT.log("Empty response");
+				}
+				else
+				{
+					GWT.log("Received response " + response.getSequenceID() + " for file " + response.getFileName());
+					
+					SlicedUploadDemo.instance.setResponseHTML(response.getResponseMessage());
+					SlicedUploadDemo.instance.setProgress(Integer.valueOf(response.getSliceProgress()));
+				}
+			}
+		};
 	            
-	    uploadService.sendSlice(slice, callback);
-    }
+		uploadService.sendSlice(slice, callback);
+	}
 }
